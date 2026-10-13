@@ -1,0 +1,8 @@
+* text=auto
+installer/* -text
+src/* -text
+payload/* -text
+artifacts/* -text
+LICENSES/* -text
+PATCH-README.md -text
+SHA256SUMS.txt -text

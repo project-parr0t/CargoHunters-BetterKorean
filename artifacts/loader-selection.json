@@ -1,0 +1,10 @@
+{
+  "version": "6.0.0-be.788+5b766a3",
+  "commit": "5b766a3",
+  "archive": "BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.788+5b766a3.zip",
+  "folder": "bepinex-be788",
+  "license_file": "BepInEx-be788-LICENSE.txt",
+  "official_builds_page": "https://builds.bepinex.dev/projects/bepinex_be",
+  "metadata_target": 31,
+  "runtime_test_required": true
+}

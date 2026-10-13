@@ -1,0 +1,34 @@
+[
+  {
+    "filename": "BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.788+5b766a3.zip",
+    "url": "https://builds.bepinex.dev/projects/bepinex_be/788/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.788%2B5b766a3.zip",
+    "bytes": 34336405,
+    "sha256": "f4cc496bd098a0df4164b81e3737297707f13a47c2478dba2f60eefab784817a",
+    "sha512": "68ec7bf8e8370fef804c028ee86371bcbc1d7eb5e8df3f23c7dd3777c1258f093938251eb40663298876deeecc9c1325da551c89e0f66ad1d2796865679b70a3",
+    "vendor_hash_verified": false
+  },
+  {
+    "filename": "BepInEx-be788-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/BepInEx/BepInEx/5b766a3/LICENSE",
+    "bytes": 25338,
+    "sha256": "f2ceca48af033d8adf337a8f9453e633cfad10a1f8c9fec2e5ae55a2d8ffe952",
+    "sha512": "ecff25b843a5cb882c5aa5b41c63b01264d5fa90f2f879c6e14f880c00febbad9b4ee0bcd5f3d71972b5aae61e00f2a900ba85e950afa65563d24b3508b8bbe1",
+    "vendor_hash_verified": false
+  },
+  {
+    "filename": "2021.3.45-unity-libs.zip",
+    "url": "https://unity.bepinex.dev/libraries/2021.3.45.zip",
+    "bytes": 1691340,
+    "sha256": "3cfde1613715c966cb8084087c37081ed5896871b39194d45a907a69dd7da9e5",
+    "sha512": "ef08a95d41e243ebebe08fec32e9bdfe298c85d7ceed256962e4532077d9bad5109f82416086408b6d543e75666dceb0dcc9bdb0383e1e30c069e8f2201aa46b",
+    "vendor_hash_verified": false
+  },
+  {
+    "filename": "Il2CppInteropManager-be788.cs",
+    "url": "https://raw.githubusercontent.com/BepInEx/BepInEx/5b766a3/Runtimes/Unity/BepInEx.Unity.IL2CPP/Il2CppInteropManager.cs",
+    "bytes": 19331,
+    "sha256": "731166441a468326dd8d4fe055d193e8251b177fcab2c7f77698b4a256b1df9d",
+    "sha512": "c9272c8a6c81a7ef70f6a75d9c281f756f7f0f9460bc69bcd4201975cd9156f38dd698c34568bc81880d3c3873136f9d41aac3ca008d367029d175bf5e627534",
+    "vendor_hash_verified": false
+  }
+]

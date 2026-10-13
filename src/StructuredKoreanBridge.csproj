@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>10</LangVersion>
+    <Deterministic>true</Deterministic>
+    <AssemblyName>Private.StructuredKoreanBridge</AssemblyName>
+    <Version>0.1.1</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BepInEx.Core"><HintPath>../dependencies/bepinex-be788/BepInEx/core/BepInEx.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx.Unity.IL2CPP"><HintPath>../dependencies/bepinex-be788/BepInEx/core/BepInEx.Unity.IL2CPP.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>../dependencies/bepinex-be788/BepInEx/core/0Harmony.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

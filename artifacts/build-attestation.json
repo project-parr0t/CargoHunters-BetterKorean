@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "bridge_version": "0.1.1",
+  "target_framework": "net6.0",
+  "compiler_sdk": "6.0.428",
+  "reference_pack": "6.0.36",
+  "loader_version": "6.0.0-be.788+5b766a3",
+  "loader_archive_sha256": "f4cc496bd098a0df4164b81e3737297707f13a47c2478dba2f60eefab784817a",
+  "offline_interop_report_sha256": "694ea90b745da0e6bdca687932b9ecb6237acb41f77c8858b9ff7da95f6f191f",
+  "approved_sha256": "e694e6019d9b5b24c6a93db3b2689b5038eb2c10f86b2a01d962c6ebe79db28e",
+  "judge_validation_sha256": "5b363bbe5cf2a50b4f5f97a9416302f2859c6467180fbb4c46512b37c78858fd",
+  "inventory_sha256": "90aa16587cbd9a5bf9e51b4b0e14675f3f225c6181374e081bb4936db035ccbf",
+  "deferred_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "payload_sha256": "84c6eacbcfc7be7e1ee920b8c9ce98047d31e8a85d5b04d228d39426fc9c3605",
+  "bridge_sha256": "82400de0f9df2ddb5335cd77a9bf4459e40da730eff182457f73d928f32a1036",
+  "source_code_sha256": {
+    "AssemblyInfo.cs": "e79eb0c48abb4d379394ce4b39a7ccdc202f56683b640aca37d1110426eccfc2",
+    "GlobalUsings.cs": "e760f3f938db4b811f18e59969de2fa707424faf126582b02f92c98dc80e5146",
+    "Plugin.cs": "6b731a63c4a8bb36ec1f7979339e534b76051ffe2e80c963294999c825ea7bc3"
+  },
+  "synthetic_checks_passed": 8,
+  "native_hooks_executed": false,
+  "source_game_files_included": false
+}

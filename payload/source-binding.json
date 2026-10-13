@@ -1,0 +1,14 @@
+[
+  {
+    "relative_path": "CargoHunters_Data\\StreamingAssets\\aa\\StandaloneWindows64\\localization-assets-shared_assets_all.bundle",
+    "sha256": "bc7ad6569d29e6e502d6f00b3c3265a3ac1a34661ba249a54fc0face5ec14c71"
+  },
+  {
+    "relative_path": "CargoHunters_Data\\StreamingAssets\\aa\\StandaloneWindows64\\localization-locales_assets_all.bundle",
+    "sha256": "8aac89bd27dd90ba258ce97fb4115972872d3c4ee1d4dfdc78c2bb23224aa1bf"
+  },
+  {
+    "relative_path": "CargoHunters_Data\\StreamingAssets\\aa\\StandaloneWindows64\\localization-stringtables_assets_all.bundle",
+    "sha256": "9668ca26888c978d407da9d240ee382d8996d3d4f9e3bb56043013a475120c5f"
+  }
+]

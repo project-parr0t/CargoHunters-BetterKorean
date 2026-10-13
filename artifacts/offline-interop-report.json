@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "loader_version": "6.0.0-be.788+5b766a3",
+  "loader_archive_sha256": "f4cc496bd098a0df4164b81e3737297707f13a47c2478dba2f60eefab784817a",
+  "metadata_version": 31,
+  "metadata_parse_passed": true,
+  "interop_generation_passed": true,
+  "elapsed_seconds": 46.15,
+  "phases": [
+    {
+      "phase": "metadata_parse",
+      "status": "passed",
+      "metadata_version": 31
+    },
+    {
+      "phase": "dummy_assemblies",
+      "status": "passed",
+      "assembly_count": 168
+    },
+    {
+      "phase": "interop_generation",
+      "status": "passed",
+      "assemblies": 194,
+      "localization_assembly_present": true
+    }
+  ],
+  "input_hashes": {
+    "game_assembly_sha256": "39e997c4ece37e2140d7c05dad980fb5169d42725911a2a5a8f3bacc05080abf",
+    "metadata_sha256": "e6c7138c1a18ba4df0aac6a6f7e083f311fc7d79fe62f1968398605d204f3625"
+  },
+  "input_hashes_unchanged": true,
+  "interop_assembly_count": 194,
+  "game_executed": false,
+  "source_write_count": 0,
+  "exit_code": 0,
+  "issue_codes": []
+}
